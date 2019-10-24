@@ -1,4 +1,50 @@
 /*
 cinza #58585A (texto destacado)
 verdinho #93B389 (títulos)
-*\
+*/
+.titulo-principal{
+    padding-left: 20px;
+    color: blue;
+}
+
+#banner{
+    width:100%;
+}
+
+.principal{
+    background-color: #cccccc;
+    padding: 30px;
+}
+.titulo-centralizado{
+    text-align: center;
+
+}
+
+p{
+    text-align: center;
+}
+
+#missao{
+    font-size: 20px;
+}
+em strong{
+    color: red;
+}
+.beneficios{
+    padding: 20px;
+}
+
+.imagem-beneficios{
+    width: 30%
+}
+
+ul{
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+    margin-right: 15%;
+}
+
+.itens{
+    font-style: italic;
+}
